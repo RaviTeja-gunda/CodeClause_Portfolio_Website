@@ -46,6 +46,10 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
+.details p:hover{
+    color:cadetblue;
+}
+
 .details a ion-icon{
     color: azure;
     font-size:50px;
