@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeClause_Portfolio_Website/static/css/main.c1e6dcd2.css",
+    "main.js": "/CodeClause_Portfolio_Website/static/js/main.e15a5a92.js",
+    "index.html": "/CodeClause_Portfolio_Website/index.html",
+    "main.c1e6dcd2.css.map": "/CodeClause_Portfolio_Website/static/css/main.c1e6dcd2.css.map",
+    "main.e15a5a92.js.map": "/CodeClause_Portfolio_Website/static/js/main.e15a5a92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e6dcd2.css",
+    "static/js/main.e15a5a92.js"
+  ]
+}
